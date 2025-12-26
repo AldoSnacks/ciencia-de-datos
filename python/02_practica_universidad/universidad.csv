@@ -1,0 +1,11 @@
+id_alumno,nombre,edad,fecha_nacimiento,carrera,semestre,promedio,ciudad
+1,Ana Lopez,20,2004-03-15,Ingenieria,4,8.7,CDMX
+2,Carlos Ruiz,22,2002-07-10,Medicina,6,9.1,Guadalajara
+3,Sofia Martinez,19,2005-01-22,Derecho,2,8.3,CDMX
+4,Juan Perez,21,2003-11-05,Ingenieria,5,7.9,Monterrey
+5,Laura Gomez,23,2001-05-30,Arquitectura,7,8.8,Puebla
+6,Miguel Torres,20,2004-09-12,Medicina,4,9.0,CDMX
+7,Daniela Cruz,22,2002-02-18,Derecho,6,8.1,Guadalajara
+8,Pedro Sanchez,24,2000-12-01,Ingenieria,8,7.5,Monterrey
+9,Valeria Ortiz,21,2003-06-25,Arquitectura,5,8.9,CDMX
+10,Jorge Ramos,19,2005-08-14,Ingenieria,2,8.0,Puebla
